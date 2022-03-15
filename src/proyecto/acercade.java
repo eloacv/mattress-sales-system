@@ -58,7 +58,7 @@ public class acercade extends JDialog {
 		txtpnSdfds.setEditable(false);
 		txtpnSdfds.setFont(new Font("Tahoma", Font.PLAIN, 13));
 		txtpnSdfds.setBackground(UIManager.getColor("Button.background"));
-		txtpnSdfds.setText("Elo\u00E1 Cruz Visalaya\r\nHern\u00E1n Cardenas Bre\u00F1a\r\nWilmer Cerr\u00F3n Porta\r\nJorge Eguiluz Roca\r\nFavio Rivadeneyra Ormea");
+		txtpnSdfds.setText("Elo\u00E1 Cruz Visalaya");
 		txtpnSdfds.setBounds(138, 85, 158, 111);
 		
 		contentPanel.add(txtpnSdfds);
